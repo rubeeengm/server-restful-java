@@ -8,7 +8,6 @@
 <li>JavaEE</li>
 <li>MySQL</li>
 <li>Restful API</li>
-<li>El script de la base de datos se encuentra dentro de la carpeta<br>
-<strong>script</strong>.</li>
+<li>El script de la base de datos se encuentra dentro de la carpeta <strong>script</strong>.</li>
 </ul>
 
